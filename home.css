@@ -1,0 +1,120 @@
+#about{
+  
+  width: 1000px;
+   font-family:"Segoe UI";
+   padding-left: 300px;
+   margin-bottom: 50px ;
+}
+#intro{
+  text-align: center; 
+  font-size: 30px;
+    line-height:0px;    
+    color:darkolivegreen
+}
+.divider{
+    background-color: blue;
+    
+display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    height: 200px;
+    padding: 50px;
+     font-size: 20px;
+   
+}
+#dastarkhan{
+ color: aliceblue;
+text-transform: uppercase;
+text-align: center;
+line-height:0px;    
+}
+#familyadotion{
+ color: aliceblue;
+text-transform: uppercase;
+text-align: center;
+line-height:0px;    
+}
+#medical{
+ color: aliceblue;
+text-transform: uppercase;
+text-align: center;
+line-height:0px;    
+}
+#education{
+ color: aliceblue;
+text-transform: uppercase;
+text-align: center;
+line-height:0px;    
+}
+#services{
+   
+    
+}
+.doing{
+    font-size: 30px;
+   text-align: center;
+    color: darkolivegreen;
+    line-height:0px; 
+}
+.sadqa{
+    height: 200px;
+   
+     box-shadow: 15px 15px 15px silver;
+     text-align: center;
+     width: 25%;
+     background-color:white;
+    margin-left: 200px;
+    
+}
+.welfare{
+    height: 200px;
+   
+    box-shadow: 15px 15px 15px silver;
+     text-align: center;
+     width: 25%;
+     background-color:white;
+    margin-left: 650px;
+    margin-top: -200px;
+    
+}
+.Medica{
+    height: 200px;
+    
+    box-shadow: 15px 15px 15px silver;
+     text-align: center;
+     width: 25%;
+     background-color:white;
+    margin-left: 1100px;
+     margin-top: -200px;
+}
+.dastarkhawn{
+    height: 200px;
+   
+     box-shadow: 15px 15px 15px silver;
+     text-align: center;
+     width: 25%;
+     background-color:white;
+    margin-left: 200px;
+    margin-top: 25px;
+}
+.plant{
+    height: 200px;
+    
+     box-shadow: 15px 15px 15px silver;
+     text-align: center;
+     width: 25%;
+     background-color:white;
+    margin-left: 650px;
+    margin-top: -200px;
+}
+.edu{
+    height: 200px;
+    background-color:white;
+    box-shadow: 15px 15px 15px silver;
+     text-align: center;
+     width: 25%;
+    margin-left: 1100px;
+    margin-top: -200px;
+}
+
+
